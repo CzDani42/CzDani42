@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CzDani42
 - 👀 I’m interested in competetive programming and game development
-- 🌱 I’m currently learning Unity and version control
+- 🌱 I’m currently learning HTML and version control
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
