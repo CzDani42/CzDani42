@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CzDani42
 - 👀 I’m interested in competetive programming, game development and web development
-- 🌱 I’m currently learning node js and databases
+- 🌱 I’m currently learning node js with express
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
